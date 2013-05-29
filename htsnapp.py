@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Htsnapp - create snapshots of websites from urls, nmap xml, and txr files.
-# Author - Nikhil 'Nix' Sreekumar
-# Contact: nik@pentest.7safe.com
+# Author - Nikhil Sreekumar
+# Contact: roo7break@gmail.com / @roo7break
 # Supports urls, files with urls, and nmap.xml files
 
 # Primary source for screenshot code: 
