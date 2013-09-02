@@ -135,7 +135,7 @@ class HtSnapp(PyWebShot):
 		# options.location	-		Directory location to save all the files
 		
 		print '''++++++++++++ Htsnapp (beta):: by Nikhil 'roo7break' Sreekumar ++++++++++++
-		contact: nik@pentest.7safe.com
+		contact: roo7break@gmail.com
 		'''
 			
 		option = option[0]
